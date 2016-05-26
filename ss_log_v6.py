@@ -1,5 +1,5 @@
 # Open the log file
-f=open('d:\shadowsocks.log')
+f=open('shadowsocks.log')
 
 # initial a blank set
 s={1}
