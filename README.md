@@ -14,4 +14,4 @@ To list all ips from the shadowsocks log file.
 使用这家网站可以批量查询ip，可以得到省份、运行商信息
 http://ip.cha127.com/piliang.htm
 
-# 猥琐的使用去吧~~
+# 猥琐地使用去吧~~
