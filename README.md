@@ -22,5 +22,5 @@ for w in s:
 http://ip.cha127.com/piliang.htm
 
 最后，你可以把数据导入到Excel里分析嘛！！
-
+![](http://i.imgur.com/z4sDFtF.png?1)
 # 猥琐地使用去吧~~
