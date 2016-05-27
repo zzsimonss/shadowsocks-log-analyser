@@ -9,6 +9,7 @@ To list all ips and its connected times from the shadowsocks log file.
 - 更改python脚本前两行
 
 `ipv6=True`:ip格式是ipv6的开启这个
+
 `sort=False`：默认按照ip出现时间排序，true为按照连接次数排序
 
 - 运行Python脚本`python ss_log.py`
